@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 **wolfy916/wolfy916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![wolfy916's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfy916&show_icons=true&theme=radical)
+![Wolfy916's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfy916&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
