@@ -15,7 +15,7 @@
 - 1인가구를 위한 온라인 화상 술자리 플랫폼
 ### [Wild-Worker](https://github.com/wolfy916/wildworker#%EC%95%BC%EC%83%9D%EC%9D%98-%EC%A7%81%EC%9E%A5%EC%9D%B8)
 - 지하철 출퇴근 중 가볍게 즐길 수 있는 모바일 웹 게임
-### [codeBamboo](https://github.com/wolfy916/CodeBamboo#-code-bamboo)
+### [odeBamboo](https://github.com/wolfy916/CodeBamboo#-code-bamboo)
 - HTML, CSS, JS를 기반으로 컴포넌트를 쉽게 제작할 수 있는 커뮤니티 성격의 웹 서비스
 <br>
 
