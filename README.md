@@ -20,6 +20,8 @@
 <br>
 
 ## **Stats**
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsxogud916)](https://solved.ac/rnjsxogud916/)
-<br>
 ![Wolfy916's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfy916&show_icons=true&theme=radical)
+<br/>
+[![코드트리|실력진단-rnjsxogud916](https://banner.codetree.ai/v1/banner/rnjsxogud916)](https://www.codetree.ai/profiles/rnjsxogud916)
+<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsxogud916)](https://solved.ac/rnjsxogud916/)
