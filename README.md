@@ -1,5 +1,5 @@
 ## **Tech Stack**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfy916&hide=java,python&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfy916&hide=java,python,solidity&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div id="languages" style="font-size: 14px">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
